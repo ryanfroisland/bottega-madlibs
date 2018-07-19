@@ -14,4 +14,8 @@ import Card from './card';
   }
 }
 
+// things we need to fix
+// content labels
+// generate btn space/card height
+
 export default Home;
